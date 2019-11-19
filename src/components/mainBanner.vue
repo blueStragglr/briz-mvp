@@ -4,7 +4,7 @@
         Trendy K-beauty Rankings, Briz
       </div>
       <div class="searchBox">
-        <input class="" type="text" placeholder="Search with category (i.e. Cream, Lotion, ...)">
+        <input class="search-input" type="text" placeholder="Search with category (i.e. Cream, Lotion, ...)">
 
       </div>
   </div>
@@ -39,6 +39,11 @@
     height: 32px;
     border-radius: 16px;
     width: 450px;
-
   }
+  .search-input{
+    padding: 10px;
+    border: none;
+    width: 300px;
+  }
+
 </style>
