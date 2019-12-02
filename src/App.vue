@@ -1,15 +1,6 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <div class="nav-logo">
-        <img class="logo" src="../src/assets/2x/logo_briz.png">
-      </div>
-      <div class="nav-buttons">
-        *디버그용 임시 버튼
-        <router-link to="/">Home</router-link>|
-        <router-link to="/detailPage">Item detail</router-link>
-      </div>
-    </div>
+    <navbar/>
     <div>
       <router-view/>
     </div>
@@ -28,39 +19,14 @@
     color: #2c3e50;
   }
 
-  #nav {
-    padding: 10px;
-    height: 64px;
-    display: flex;
-    align-items: center;
-    align-content: center;
-    text-align: center;
-    /*box-shadow: 0 0 2px 4px rgba(0, 0, 0, 0.05);*/
-  }
-
-  .logo{
-    flex: 0;
-    height: 36px;
-    margin: 14px;
-  }
-
-  .nav-buttons{
-    flex: 1;
-    text-align: right;
-
-  }
-
-  #nav a {
-    font-weight: bold;
-    color: #2c3e50;
-  }
-
-  #nav a.router-link-exact-active {
-    color: #42b983;
-  }
-
   body {
     margin: 0;
 
   }
 </style>
+<script>
+  import Navbar from "./components/navbar";
+  export default {
+    components: {Navbar}
+  }
+</script>
