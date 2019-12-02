@@ -1,7 +1,7 @@
 <template>
   <div class="detail-component">
     <div class="basic-info">
-      {{this.hash}}
+      {{this.$route.query}}
       <div class="title">
         <span>
           Derma Biotics
@@ -32,7 +32,7 @@
 
 <script>
   export default {
-    props: ['componentHash'],
+    props: ['componentHash', 'query'],
     name: "detailComponent",
     data() {
       const hash = this.componentHash;
