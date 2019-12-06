@@ -23,8 +23,8 @@
           <div>Brand: {{singleData.brand}}</div>
           <span class="divider">|</span>
           <div>{{singleData.volume}}</div>
-          <span class="divider">|</span>
-          <div>{{singleData.imgSource}}</div>
+<!--          <span class="divider">|</span>-->
+<!--          <div>{{singleData.imgSource}}</div>-->
         </div>
       </div>
     </div>
@@ -47,9 +47,35 @@
     },
     methods: {
       shiftCategory(index) {
-
-
         this.rankingIndex = index;
+        // 'skinCare', 'cleansing', 'maskNpack', 'base', 'eyes', 'lips', 'body', 'suncare'
+        switch (this.rankingIndex) {
+          case 0:
+            this.rankingData = this.$store.state.rawData.skinCare;
+            break;
+          case 1:
+            this.rankingData = this.$store.state.rawData.cleansing;
+            break;
+          case 2:
+            this.rankingData = this.$store.state.rawData.maskNpack;
+            break;
+          case 3:
+            this.rankingData = this.$store.state.rawData.base;
+            break;
+          case 4:
+            this.rankingData = this.$store.state.rawData.eyes;
+            break;
+          case 5:
+            this.rankingData = this.$store.state.rawData.lips;
+            break;
+          case 6:
+            this.rankingData = this.$store.state.rawData.body;
+            break;
+          case 7:
+            this.rankingData = this.$store.state.rawData.suncare;
+            break;
+        }
+
       },
       getElmPage(category, idx) {
         console.log(category, idx);
