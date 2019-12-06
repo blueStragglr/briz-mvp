@@ -55,6 +55,7 @@
     height: 48px;
     border-radius: 24px;
     width: 450px;
+    border: 1px solid #ffffff;
     text-align: center;
     outline: none;
     box-shadow: 0 0 2px 2px rgba(0,0,0,0.05);

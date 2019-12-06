@@ -18,9 +18,9 @@ export default new Vuex.Store({
           'price': '28000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': '1025 Dokdo toner',
@@ -32,9 +32,9 @@ export default new Vuex.Store({
           'price': '15000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Organic aloevera gel',
@@ -46,9 +46,9 @@ export default new Vuex.Store({
           'price': '11000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Oligo hyaluronic acid 5000 toner',
@@ -60,9 +60,9 @@ export default new Vuex.Store({
           'price': '21000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'The simple calming toner',
@@ -74,9 +74,9 @@ export default new Vuex.Store({
           'price': '18000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Cicaful ample',
@@ -88,9 +88,9 @@ export default new Vuex.Store({
           'price': '23000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Wonder ceramide mocchi toner',
@@ -102,9 +102,9 @@ export default new Vuex.Store({
           'price': '9900',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         }
       ],
 
@@ -119,9 +119,9 @@ export default new Vuex.Store({
           'price': '25000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Clear face spa lip and eye makeup remover',
@@ -133,9 +133,9 @@ export default new Vuex.Store({
           'price': '9900',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Grante clensing oil',
@@ -147,9 +147,9 @@ export default new Vuex.Store({
           'price': '36000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Green tea peeling gel',
@@ -161,9 +161,9 @@ export default new Vuex.Store({
           'price': '4800',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Stabilized rice bran enzyme powder wash',
@@ -175,9 +175,9 @@ export default new Vuex.Store({
           'price': '25000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Safe me relief moisture cleansing foam',
@@ -189,9 +189,9 @@ export default new Vuex.Store({
           'price': '16000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Pure balancing cleansing oil',
@@ -203,9 +203,9 @@ export default new Vuex.Store({
           'price': '23000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
       ],
       maskNpack: [
@@ -219,9 +219,9 @@ export default new Vuex.Store({
             'price': '1500',
             'notes': ['vegan', 'animalTestX', 'organicComponent'],
             'rating': ['4.4', '3243'],
-            'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+            'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
           },
           {
             'name': 'Gummy sheet mask Heartleaf sticker',
@@ -233,9 +233,9 @@ export default new Vuex.Store({
             'price': '4000',
             'notes': ['vegan', 'animalTestX', 'organicComponent'],
             'rating': ['4.4', '3243'],
-            'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+            'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
           },
           {
             'name': 'Hypoallergenic cica rescue gauze pad',
@@ -247,9 +247,9 @@ export default new Vuex.Store({
             'price': '22000',
             'notes': ['vegan', 'animalTestX', 'organicComponent'],
             'rating': ['4.4', '3243'],
-            'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+            'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
           },
           {
             'name': 'Blackbean Mask Sheet',
@@ -261,9 +261,9 @@ export default new Vuex.Store({
             'price': '1500',
             'notes': ['vegan', 'animalTestX', 'organicComponent'],
             'rating': ['4.4', '3243'],
-            'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+            'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
           },
           {
             'name': 'Egg plant clearing mud cream mask',
@@ -275,9 +275,9 @@ export default new Vuex.Store({
             'price': '15000',
             'notes': ['vegan', 'animalTestX', 'organicComponent'],
             'rating': ['4.4', '3243'],
-            'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+            'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
           },
           {
             'name': 'Rotyal honey peptide deep moisture pack',
@@ -289,9 +289,9 @@ export default new Vuex.Store({
             'price': '9800',
             'notes': ['vegan', 'animalTestX', 'organicComponent'],
             'rating': ['4.4', '3243'],
-            'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+            'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
           },
           {
             'name': 'Cellmazing centellareal mask pack',
@@ -303,9 +303,9 @@ export default new Vuex.Store({
             'price': '22000',
             'notes': ['vegan', 'animalTestX', 'organicComponent'],
             'rating': ['4.4', '3243'],
-            'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-            'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+            'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+            'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
           }
         ],
       base: [
@@ -319,9 +319,9 @@ export default new Vuex.Store({
           'price': '6000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Art class by Rodin',
@@ -333,9 +333,9 @@ export default new Vuex.Store({
           'price': '16000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Double wear stay in place makeup foundation [SPF10/PA++][1W1]',
@@ -347,9 +347,9 @@ export default new Vuex.Store({
           'price': '69000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Double wear stay in place makeup foundation [SPF10/PA++][2C0]',
@@ -361,9 +361,9 @@ export default new Vuex.Store({
           'price': '69000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Double wear stay in place makeup foundation [SPF10/PA++][1W2]',
@@ -375,9 +375,9 @@ export default new Vuex.Store({
           'price': '69000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'NO-SEBUM Mineral pact',
@@ -389,9 +389,9 @@ export default new Vuex.Store({
           'price': '10000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Blush [sexappeal]',
@@ -403,9 +403,9 @@ export default new Vuex.Store({
           'price': '40000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         }
       ],
       eyes: [
@@ -419,9 +419,9 @@ export default new Vuex.Store({
           'price': '34000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Look at my eyes[BR422 솔솔말린솔방울]',
@@ -433,9 +433,9 @@ export default new Vuex.Store({
           'price': '15000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Heroine make long and curl mascara EX',
@@ -447,9 +447,9 @@ export default new Vuex.Store({
           'price': '11000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Doctor mascara fixer for perfect lash',
@@ -461,9 +461,9 @@ export default new Vuex.Store({
           'price': '21000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Oh my lash cara',
@@ -475,9 +475,9 @@ export default new Vuex.Store({
           'price': '18000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Heroine make smooth liquid eyeliner N [Brown]',
@@ -489,9 +489,9 @@ export default new Vuex.Store({
           'price': '23000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Sharp, so simple waterproof pencil liner[Brown]',
@@ -503,9 +503,9 @@ export default new Vuex.Store({
           'price': '9900',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         }
       ],
       lips: [
@@ -519,9 +519,9 @@ export default new Vuex.Store({
           'price': '3800',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Matte lipstick[Chilly]',
@@ -533,9 +533,9 @@ export default new Vuex.Store({
           'price': '31000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Last velvet lip tint[12 다정보스]',
@@ -547,9 +547,9 @@ export default new Vuex.Store({
           'price': '8500',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Ginger sugar overnight lip mask',
@@ -561,9 +561,9 @@ export default new Vuex.Store({
           'price': '9000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Sticklerve original',
@@ -575,9 +575,9 @@ export default new Vuex.Store({
           'price': '12000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Bulgarian rose lip treatment balm[pure red]',
@@ -589,9 +589,9 @@ export default new Vuex.Store({
           'price': '19800',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Retro matte lipstick[ruby]',
@@ -603,9 +603,9 @@ export default new Vuex.Store({
           'price': '31000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         }
       ],
       body: [
@@ -619,9 +619,9 @@ export default new Vuex.Store({
           'price': '3000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Ceramide ato lotion',
@@ -633,9 +633,9 @@ export default new Vuex.Store({
           'price': '19900',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Organic aloe vera gel',
@@ -647,9 +647,9 @@ export default new Vuex.Store({
           'price': '11000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Pure and soft feminine wash',
@@ -661,9 +661,9 @@ export default new Vuex.Store({
           'price': '15000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Ceramide ato cream',
@@ -675,9 +675,9 @@ export default new Vuex.Store({
           'price': '19900',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Daily moisture body lotion',
@@ -689,9 +689,9 @@ export default new Vuex.Store({
           'price': '16000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Moisturizing lotion',
@@ -703,9 +703,9 @@ export default new Vuex.Store({
           'price': '14000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         }
       ],
       suncare: [
@@ -719,9 +719,9 @@ export default new Vuex.Store({
           'price': '38000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': '365 safe suncream [SPF50+/PA++++]',
@@ -733,9 +733,9 @@ export default new Vuex.Store({
           'price': '25000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Razer sunscreen 100 [SPF50+/PA+++]',
@@ -747,9 +747,9 @@ export default new Vuex.Store({
           'price': '42000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Green mild up sun [SPF50+/PA++++]',
@@ -761,9 +761,9 @@ export default new Vuex.Store({
           'price': '28000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Super food blueberry rebalancing watery suncream [SPF45+/PA+++]',
@@ -775,9 +775,9 @@ export default new Vuex.Store({
           'price': '9000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'Urban shade antipollution sun [SPF50+/PA++++]',
@@ -789,9 +789,9 @@ export default new Vuex.Store({
           'price': '30000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         },
         {
           'name': 'UV relief moisturizer [SPF50+/PA++++]',
@@ -803,9 +803,9 @@ export default new Vuex.Store({
           'price': '35000',
           'notes': ['vegan', 'animalTestX', 'organicComponent'],
           'rating': ['4.4', '3243'],
-          'embededLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
-          'embededLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+          'embeddedLink1': '<iframe width="560" height="315" src="https://www.youtube.com/embed/qEH7izQ6xmY?start=280" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink2': '<iframe width="560" height="315" src="https://www.youtube.com/embed/yB6SOOeu0Uc?start=349" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+          'embeddedLink3': '<iframe width="560" height="315" src="https://www.youtube.com/embed/5OuHzaofRso?start=326" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
         }
       ]
     }
