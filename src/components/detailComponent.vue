@@ -61,14 +61,16 @@
         </div>
       </div>
     </div>
+    <comments></comments>
   </div>
 </template>
 
 <script>
   import SingleReviewVideo from "./singleReviewVideo";
+  import Comments from "./comments";
 
   export default {
-    components: {SingleReviewVideo},
+    components: {Comments, SingleReviewVideo},
     props: ['componentHash', 'query'],
     name: "detailComponent",
     data() {
@@ -87,8 +89,6 @@
       // this.cosmeticData = []
       const category = Number(this.$route.query.c);
       const itemIndex = Number(this.$route.query.i);
-      console.log(category,itemIndex);
-
 
       // 'skinCare', 'cleansing', 'maskNpack', 'base', 'eyes', 'lips', 'body', 'suncare'
       switch (category) {
@@ -118,10 +118,6 @@
           break;
       }
 
-      console.log(this.cosmeticData);
-      console.log(this.cosmeticData.embeddedLink1);
-      console.log(this.cosmeticData.embeddedLink2);
-      console.log(this.cosmeticData.embeddedLink3);
     },
     methods: {
       returnWithCommas(numberToChange) {
